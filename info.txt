@@ -1,2 +1,7 @@
 This is a weight convertor
+<<<<<<< HEAD
 fdfsdf 
+=======
+
+This code is from the Desktop application 
+>>>>>>> 012cbeeaf2bcb09797e4d16e228a49c5e007c397
