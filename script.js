@@ -1,6 +1,6 @@
 document.getElementById('lbsInput').addEventListener('input', function(e){
-   let pounds = e.target.value; 
-    console.log(pounds);
+   let lbs = e.target.value; 
+    document.getElementById('gramsOutput').innerHTML = Math.round(lbs/0.0022046);
 })
 //We lisent for an input event
 ////function(e){
