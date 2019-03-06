@@ -1,7 +1,5 @@
-This is a weight convertor
-<<<<<<< HEAD
-fdfsdf 
-=======
+This project consists in the conversion of pounds into grams, kilograms and ounce respectivily. 
+Further functionality still in the making
 
 This code is from the Desktop application 
 >>>>>>> 012cbeeaf2bcb09797e4d16e228a49c5e007c397
