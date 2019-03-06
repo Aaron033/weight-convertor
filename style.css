@@ -4,11 +4,13 @@ body {
     background-color: lightgray;
 }
 
-header{
+.header{
     text-align: center;
     display: flex; 
-    flex-direction: column;
+    justify-content: center;
+ 
 }
+
 
 header li {
     list-style: none;
