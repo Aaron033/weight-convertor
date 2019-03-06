@@ -4,19 +4,22 @@ body {
     background-color: lightgray;
 }
 
-nav{
-    text-align: center;
+.navi{
+
     display: flex; 
     justify-content: center;
-flex-direction: row !important;
+
 }
-
-
-header li {
+/*you must add flex to both in order to flex-direction property to work*/
+.main-nav{
+    display: flex;
+    flex-direction: row;
+}
+ nav li {
     list-style: none;
     
 }
 
-header li a {
+nav li a {
     text-decoration: none;
 }
