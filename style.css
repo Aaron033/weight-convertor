@@ -38,19 +38,19 @@ nav li a {
     display: flex;
 }
 .grams {
-    background-color: blue; 
+   
     padding: 10px;
 
 }
 
 .kilo{
-        background-color: green;
+      
      padding: 10px;
         margin-bottom: 5px; 
 }
 
 .oun{
-    background-color:red;
+
      padding: 10px;
     margin-bottom: 5px; 
         
