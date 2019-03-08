@@ -32,7 +32,7 @@ nav li a {
 }
 
 .wrapper a {
-    color: #fff; 
+    color: #000; 
 }
 .wrapper{
     display: flex;
@@ -54,4 +54,11 @@ nav li a {
      padding: 10px;
     margin-bottom: 5px; 
         
+}
+
+.form-group {
+    margin-top: 10px; 
+}
+.display-4{
+    margin-bottom: 15px;
 }
