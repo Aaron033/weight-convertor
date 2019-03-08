@@ -37,23 +37,17 @@ nav li a {
 .wrapper{
     display: flex;
 }
-.grams {
-   
-    padding: 10px;
 
-}
 
-.kilo{
+.kilo, .oun, .grams{
       
      padding: 10px;
         margin-bottom: 5px; 
 }
 
-.oun{
-
-     padding: 10px;
-    margin-bottom: 5px; 
-        
+.kilo:hover, .oun:hover, .grams:hover{
+    
+    
 }
 
 .form-group {
