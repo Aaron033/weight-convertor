@@ -6,10 +6,22 @@
     
 }
 
+header li  {
+    list-style: none;  
+}
+
+header li a {
+    text-decoration: none; 
+    padding: 10px;
+}
+
+
 body{
     height:100vh; 
     display: flex;
     justify-content: center; 
     flex-direction: column;
     align-items: center;
+    background: linear-gradient(rgb(47,150,163), rgb(48, 62, 143));
+    font-family: sans-serif;
 }
