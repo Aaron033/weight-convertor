@@ -6,6 +6,14 @@
     
 }
 
+
+
+
+nav ul {
+    display: flex; 
+     flex-direction: row;
+}
+
 header li  {
     list-style: none;  
 }
@@ -13,7 +21,10 @@ header li  {
 header li a {
     text-decoration: none; 
     padding: 10px;
+    color: aliceblue;
 }
+
+
 
 
 body{
@@ -24,4 +35,13 @@ body{
     align-items: center;
     background: linear-gradient(rgb(47,150,163), rgb(48, 62, 143));
     font-family: sans-serif;
+    color: #fff;
+}
+
+.location {
+    height: 30vh; 
+    width: 50%; 
+    display: flex; 
+    justify-content: space-around; 
+    align-items: center;
 }
