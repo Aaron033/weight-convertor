@@ -35,6 +35,7 @@ color:#000;
 
 /* Shutter Out Horizontal */
 .hvr-shutter-out-horizontal {
+    padding: 10px;
   display: inline-block;
   vertical-align: middle;
   -webkit-transform: perspective(1px) translateZ(0);
@@ -75,10 +76,7 @@ color:#000;
   transform: scaleX(1);
 }
 
-header a{
-    padding: 10px; 
-    background-color: palevioletred;
-}
+
 .wrapper a {
     color: #000; 
     text-decoration: none;
