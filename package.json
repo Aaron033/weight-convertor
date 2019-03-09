@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Aaron033/weight-convertor/issues"
   },
-  "homepage": "https://github.com/Aaron033/weight-convertor#readme"
+  "homepage": "https://github.com/Aaron033/weight-convertor#readme",
+  "dependencies": {
+    "hover.css": "^2.3.2"
+  }
 }
