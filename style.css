@@ -26,13 +26,20 @@ nav li a {
     text-decoration: none;
     font-weight: bold;
     font-size: 1.3rem;
-    color: palevioletred;
+color:#000;
+    text-decoration: none !important;
+   
     text-transform: uppercase;
     
 }
 
+header a{
+    padding: 10px; 
+    background-color: palevioletred;
+}
 .wrapper a {
     color: #000; 
+    text-decoration: none;
 }
 .wrapper{
     display: flex;
